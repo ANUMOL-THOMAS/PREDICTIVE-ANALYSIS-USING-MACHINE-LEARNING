@@ -17,3 +17,13 @@ For the predictive engine, we selected a Support Vector Machine (SVM) with a Rad
 The model showed exceptional precision in identifying "average" and "good" wines, though it faced challenges with "rare" high-quality wines due to the limited number of such samples in the dataset—a common hurdle in real-world imbalanced data. In conclusion, this analysis proves that machine learning can successfully decode the complex relationship between chemical composition and taste, providing a scalable, data-driven alternative to traditional tasting panels. Future iterations could improve accuracy further by employing oversampling techniques like SMOTE to better represent the highest-quality vintages.
 
 # OUTPUT
+
+<img width="940" height="248" alt="Image" src="https://github.com/user-attachments/assets/5b537ba8-7624-486f-b2e8-45add66b5283" />
+
+<img width="940" height="341" alt="Image" src="https://github.com/user-attachments/assets/9065e980-4fb2-48ee-b064-ec491eebfcbb" />
+
+<img width="940" height="283" alt="Image" src="https://github.com/user-attachments/assets/04431d1c-9d6c-4bb7-b0da-9c3b5bc74a33" />
+
+<img width="940" height="196" alt="Image" src="https://github.com/user-attachments/assets/181c4494-bf90-49c8-ae7c-703b5f302d79" />
+
+<img width="940" height="345" alt="Image" src="https://github.com/user-attachments/assets/6fcc842a-42d0-4f86-9346-2d596c8d446e" />
